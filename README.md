@@ -15,7 +15,7 @@ All dependencies are included in the notebook:
 - Standard Python libraries
 
 ## How to Run in Colab
-1. Go [here](https://colab.research.google.com/drive/15JRI5adGAqXXrBJIUEyAyplVGJwdWCm9?usp=sharing)
+1. Go <a href="https://colab.research.google.com/drive/15JRI5adGAqXXrBJIUEyAyplVGJwdWCm9?usp=sharing" target="_blank">here</a>
 2. Run all cells in the notebook (Runtime > Run all) ![image](https://github.com/user-attachments/assets/b473e341-f2a3-4324-ad2f-e45a8f04fd7c)
 3. When prompted, authorize the application ![image](https://github.com/user-attachments/assets/53f0a597-30fd-49c0-9215-162b9b8c12ac) ![image](https://github.com/user-attachments/assets/bd01326b-932f-4bdd-90fb-ce05379e9b5c) ![image](https://github.com/user-attachments/assets/3344814d-8248-42ea-bb26-41dd2a1b6567) ![image](https://github.com/user-attachments/assets/bc5ff784-f178-4f04-bb59-236cc0d80589)
 ![image](https://github.com/user-attachments/assets/0fa46653-6a91-479d-84d1-f07a9db5facb)
